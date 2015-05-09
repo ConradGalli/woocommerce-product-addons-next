@@ -1,15 +1,15 @@
 <?php
 /*
-Plugin Name: WooCommerce Product Add-ons
-Plugin URI: http://www.woothemes.com/products/product-add-ons/
+Plugin Name: WooCommerce Product Add-ons Next
+Plugin URI: https://github.com/dwr/woocommerce-product-addons-next
 Description: WooCommerce Product Add-ons lets you add extra options to products which the user can select. Add-ons can be checkboxes, a select box, or custom input. Each option can optionally be given a price which is added to the cost of the product.
-Version: 2.7.1
-Author: WooThemes
-Author URI: http://woothemes.com
+Version: 2.8.0
+Author: Valeriy Yatsko
+Author URI: https://github.com/dwr/woocommerce-product-addons-next
 Requires at least: 3.8
 Tested up to: 4.1
 
-	Copyright: © 2009-2014 WooThemes.
+	Copyright: © 2009-2015 WooThemes.
 	License: GNU General Public License v3.0
 	License URI: http://www.gnu.org/licenses/gpl-3.0.html
 */
