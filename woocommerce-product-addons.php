@@ -200,7 +200,7 @@ if ( is_woocommerce_active() ) {
 		global $product;
 
 		if ( $price === '' || $price == '0' ) {
-			return;
+			return 0;
 		}
 
 		if ( is_object( $product ) ) {
