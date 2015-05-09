@@ -28,7 +28,6 @@ if ( ! function_exists( 'woothemes_queue_update' ) ) {
 /**
  * Plugin updates
  */
-woothemes_queue_update( plugin_basename( __FILE__ ), '147d0077e591e16db9d0d67daeb8c484', '18618' );
 
 if ( is_woocommerce_active() ) {
 
